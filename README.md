@@ -1,6 +1,6 @@
 # Hi, I'm Anup K 👋
 
-Engineering student interested in **Full-Stack Development, AI, and Cybersecurity**. I enjoy building projects, experimenting with new technologies, and participating in hackathons.
+Engineering student interested in **Full-Stack Development and AI**. I enjoy building projects, experimenting with new technologies, and participating in hackathons.
 
 ## Projects
 
